@@ -19,7 +19,7 @@ Fetching Weather data from the OpenWeatherMap API using Javascript's fetch funct
 Parsing the JSON response data to extract weather information.
 Dynamically updating the HTML elements in the UI with the retrieved weather data.
 ## License
-
+Apache License
 
 
 
